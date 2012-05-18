@@ -1,0 +1,269 @@
+eZ Business Extension License Agreement ("eZ BEL") Version 2.0
+
+IMPORTANT: Please read the following license agreement carefully.
+
+This license agreement is between [Insert: R&D Partner Name (provider
+of Extensions), business registration no./other unique identifier,
+address and email address] ("Licensor"), and the customer ("Licensee" or
+"you"). By installing all or any portion of the software (or authorizing
+any other person to do so), you accept the terms and conditions of this
+license. If you acquired the software extension ("Extension") without an
+opportunity to review this license and do not accept the license, you may
+obtain a refund of the amount you originally paid for the Extension if
+you: (a) do not use the Extension and (b) return or delete the Extension,
+with proof of initial payment and certification of deletion, within thirty
+(30) days of the purchase date.
+
+The parties hereby agree to the following software license terms:
+
+
+1. Definitions
+"Extension" shall mean the software you license by use of eZ Market,
+offering additional functionality to eZ Software, enabling the eZ Software
+to work with other software or separate software designed to work with
+the Software.
+
+"eZ" shall mean eZ Systems AS, of Skien, Norway (Norwegian business
+registration no. 981 601 564).
+
+"eZ Market" shall mean the internet platform where R&D Partners may
+present Extensions for the sale and download by customers. eZ Market is
+maintained and provided by eZ.
+
+"Licensed Copy" means one sample of the Extension.
+
+"eZ Software" means the eZ Publish content management system or other
+software product downloaded, ordered or otherwise legally acquired
+(licensed) by Licensee from eZ (or other party authorized by eZ) under
+separate terms.
+
+"Website" means up to three defined site access configurations (unique
+URLs) that may for instance consist of one site for public use, one site
+for internal use (such as an intranet) and one site for site administrator
+use, communicated an unlimited number of channels (such as traditional
+web, mobile).
+
+2. License grant
+
+2.1 You may
+Provided you have entered into an subscription agreement, the correct
+payment of fees under that agreement and this license agreement (if
+payable) has taken place and the terms of this license is complied with,
+Licensor grants you a limited, non-exclusive and non-transferable right to
+(a) install and run the Licensed Copy on the agreed number of Websites,
+and
+(b) modify or make enhancements, improvements, patches, workarounds,
+bug fixes (collectively "Licensee Modifications") to the Licensed Copy,
+or permit a third party to do so on Licensee's behalf, solely for use by
+the Licensee and its subsidiaries (entity in which you have a controlling
+stake in (ownership exceeding 50%)). If such modification is made,
+ - you must without undue delay, inform the Licensor in writing that a
+ modification has been made and what it consist of, and
+ - any warranties or other obligations related to the rectification of
+ or liability for defects and errors in hereunder and any subscription
+ agreement will lapse.
+
+Licensee may make a reasonable number of copies of the Licensed Copy as
+required for backup and archival purposes only.
+
+2.2 You may not
+Licensee may use the Extension only as expressly granted in section
+2. Without limiting the foregoing, Licensee may not: (a) give, lease,
+license, sell, make available, or distribute any part of the Extension
+or Licensee Modifications to any third party, except as otherwise
+expressly permitted herein; (b) use the Extension to operate in or as a
+time-sharing, outsourcing, service bureau, application service provider,
+managed service provider environment or similar service directed
+towards and performed on behalf or for the benefit of a third party;
+(c) copy the Extension onto any public or distributed network; or (d)
+change any rights notices which appear in the Extension.
+
+3. Your responsibility
+Except as expressly set forth herein or in a separate written agreement,
+Licensee is the sole responsible for the installation of the Extension,
+its operation, supervision, maintenance, management and related
+training and support. You are also the sole responsible for any related
+installation, maintenance and configuration of computer hardware used
+by the Extension.
+
+4. Price and payment
+Prices and terms of payment are stipulated by eZ on behalf of the Licensor
+from time to time or as specifically agreed between the parties.
+
+5. Audit rights
+During the term of this license and for a three (3) year period following
+its termination, Licensor or eZ, on behalf of the Licensor, may conduct
+periodic reviews of Licensee's records relating to its software for the
+purpose of verifying Licensee's compliance with this license and related
+license fee payments. During this three (3) year period, you are obliged
+to maintain complete and accurate books and other records related to
+software licensing and related payments. Licensor or eZ must exercise
+its right of audit upon no fewer than 15 days' prior notice. Licensee
+will provide Licensor and eZ with reasonable access and assistance for
+the audit, including reasonable use of available office equipment and
+space. Licensor and eZ shall upon request deliver to Licensee a copy of
+the results of any such audit.
+
+6. Termination
+Licensor may terminate this license immediately if you are in breach
+any of its provisions and such breach remains uncured 30 days after
+receipt of notice. In the event that you (a) fail to pay Licensor any
+outstanding amounts, hereunder subscription fees or license fees for
+related software, on time, or (b) are or becomes liquidated, dissolved,
+bankrupt or insolvent, whether voluntarily or involuntarily, or is to
+take any action to be so declared, Licensor may terminate this license
+immediately. Upon cancellation or other termination of this license, for
+any reason, you must immediately destroy all copies of the Extension,
+and confirm the destruction within 7 (seven) days. Sections 5 through
+11 shall survive the termination of this license for any reason.
+
+7. Intellectual property rights
+Licensee agrees that the copyright and all other intellectual property
+and proprietary rights of whatever nature in the Extension and
+related documentation are not by this license transferred to you. No
+trademarks of Licensor may be used by you without Licensor's express
+written permission. If permission is grated, use must always take place
+in accordance with the applicable Licensor guidelines as they may be
+updated from time to time. For Licensee Modifications, you must, in
+the modified files and in a separate text file, clearly state that the
+Extension contains modifications and state their dates.
+
+8. Disclaimer of warranties
+The Extension is licensed "as is", without any warranties
+whatsoever. Licensor expressly disclaims, and licensee expressly waives,
+all warranties, whether express or implied, including warranties of
+merchantability, fitness for a particular purpose, non-infringement,
+system integration, non-interference and accuracy of informational
+content. Licensor does not warrant that the Extension will meet licensee's
+requirements or that the operation of the Extension will be uninterrupted
+or error-free, or that errors will be corrected. The entire risk of the
+Extension's quality and performance is with licensee.
+
+9. Indemnification
+Licensee agrees to indemnify and hold Licensor harmless against any
+damage or loss (including reasonable attorneys' fees) related to any
+claim based upon: (a) use of the Extension in a manner prohibited under
+this license or in a manner for which the Extension was not designed;
+(b) changes made by Licensee to the Extension (where use of unmodified
+Extension would not infringe); or (c) changes made, or actions taken,
+by Licensor upon Licensee's direct instructions.
+
+10. Limitation of liability
+To the extent permitted by applicable law, licensor shall have no
+liability with respect to its obligations under this license or otherwise
+for damage or loss, whether direct, consequential, exemplary, special,
+indirect, incidental or punitive damages, including any lost profits or
+lost savings,  lost data, software or computer failure or any other cause,
+even if it has been advised of the possibility of such damages.
+
+This limitation of liability applies to any default, including breach
+of contract, breach of warranty, negligence, misrepresentations and
+other torts. The parties agree that the remedies and limitations herein
+allocate the risks between the parties as authorized by applicable
+laws. The license fee is set in reliance upon this allocation of risk
+and the exclusion of certain damages as set forth in this license.
+
+If this limitation of liability is unlawful according to mandatory law,
+the maximum liability for the Licensor shall equal the fee paid for
+the Extension.
+
+11. Miscellaneous
+
+11.1 Interpretation
+Failure by Licensor to exercise any right or remedy does not signify
+acceptance of the event giving rise to such right or remedy, or loss of
+such right. No claim arising out of this License may be brought by you
+more than one year after the cause of the claim arose.
+
+If any part of this license is held by a court of competent jurisdiction
+to be illegal or unenforceable, the validity or enforceability of the
+remainder of this License shall not be affected and such provision
+shall be deemed modified to the minimum extent necessary to make such
+provision consistent with applicable law. In its modified form, such
+provision shall be enforceable and enforced.
+
+11.2 Assignment
+Without the prior written consent of Licensor, you may not assign,
+sublicense or otherwise transfer this license or its rights or obligations
+under this license to any person or party, whether by operation of law or
+otherwise. Any attempt by you to assign this license without Licensor's
+prior written consent is void and will terminate the license without
+further notice.
+
+11.3 Governing law
+This license shall be deemed to have been executed in the country of
+the Licensor and shall be governed by the laws of that country, without
+regard to any conflict of law provisions.
+
+11.4 Disputes and legal venue
+The parties shall first attempt to resolve any disputes, controversies
+or claims (collectively "Dispute") arising out of or relating to this
+license through amicable discussions and negotiations.
+
+If a Dispute cannot be resolved amicably between the parties, such
+Dispute shall be referred to local courts in the country of the Licensor
+as mandatory legal venue. However, if you are located in a country that
+does not have a bilateral or multilateral ruling enforcement treaty with
+the country of the Licensor, the Dispute shall be referred to and finally
+determined by arbitration administered by the World Intellectual Property
+Organization (WIPO) Arbitration and Mediation Centre in accordance with
+the WIPO Arbitration Rules.
+
+The place of arbitration shall be in the city of the head office of
+the Licensor. The arbitrator - of which there shall be only one -
+shall be bound by the provisions of this license and base the award on
+governing law (see section 11.3) and judicial precedent. The parties
+agree that the arbitrator shall have the authority to decide all matters,
+including arbitrability, and to award any remedies, including attorneys'
+fees, costs and equitable relief, available under applicable law. Either
+party may enforce any judgment rendered by the arbitrator in any court
+of competent jurisdiction. The parties further agree and acknowledge that
+arbitration shall be the sole and final remedy for any dispute between the
+parties. All proceedings and documents shall remain strictly confidential.
+
+In no event shall the United Nations Convention on Contracts for the
+International Sale of Goods apply to, or govern, this License.
+
+11.5 Notices
+Any notice under this license shall be delivered and addressed to Licensee
+at the address provided to Licensor (or authorized representative)
+at the time of order, and to Licensor at the address stipulated above.
+
+Copies of any notices under the license shall be sent to:
+
+Attn: Software Licensing Dept.,
+eZ Systems AS
+Klostergata 30,
+N-3732 Skien,
+Norway
+
+Notices are deemed received by any party: (a) on the day given, if
+personally delivered or if sent by confirmed facsimile transmission,
+receipt verified; (b) on the third day after deposit, if mailed by
+certified, first class, postage prepaid, return receipt requested mail,
+or by reputable, expedited overnight courier; or (c) on the fifth day
+after deposit, if sent by reputable, expedited international courier.
+
+Either party may change its address for notice purposes upon notice in
+accordance with this section.
+
+11.6 Export law assurances
+Licensee is responsible for complying with any applicable local laws,
+including but not limited to export and import regulations.
+
+11.7 Entire agreement
+This license comprises the entire agreement, and supersedes and merges all
+prior proposals, understandings and agreements, oral and written, between
+the parties relating to the subject matter of this license. Licensor's
+acceptance of any document shall not be construed as an acceptance
+of provisions which are in any way in conflict or inconsistent with,
+or in addition to, this license, unless such terms are separately and
+specifically accepted in writing by an authorized officer of Licensor.
+
+11.8 Update of terms
+The Licensor may from time to time issue new versions of this
+license. Unless you within 30 days from when you were first made aware
+or should have become aware of the new license has not made reservations
+directed at Licensor in writing, such new version of the license shall
+be deemed as accepted by you.
+
